@@ -1,7 +1,7 @@
 {
     "pokedex": [
         {
-            "id": 01,
+            "id": 101,
           "name": "Venusaur",
           "type1": "Grass",
           "type2": "Poison",
@@ -10,7 +10,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/b/b0/003.png"
         },
         {
-            "id": 02,
+            "id": 102,
           "name": "Charizard",
           "type1": "Fire",
           "type2": "Flying",
@@ -19,7 +19,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/b/b8/012.png"
         },
         {
-            "id": 03,
+            "id": 103,
           "name": "Butterfree",
           "type1": "Bug",
           "type2": "Flying",
@@ -28,7 +28,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/1/18/006.png"
         },
         {
-            "id": 04,
+            "id": 104,
           "name": "Beedrill",
           "type1": "Bug",
           "type2": "Poison",
@@ -37,7 +37,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/5/5e/015.png"
         },
         {
-            "id": 05,
+            "id": 105,
           "name": "Fearow",
           "type1": "Normal",
           "type2": "Flying",
@@ -46,7 +46,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/2/27/022.png"
         },
         {
-            "id": 06,
+            "id": 106,
           "name": "Beedrill",
           "type1": "Bug",
           "type2": "Poison",
@@ -55,7 +55,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/5/5e/015.png"
         },
         {
-            "id": 07,
+            "id": 107,
           "name": "Nidoqueen",
           "type1": "Poison",
           "type2": "Ground",
@@ -64,7 +64,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/6/61/031.png"
         },
         {
-            "id": 08,
+            "id": 108,
           "name": "Venomoth",
           "type1": "Bug",
           "type2": "Poison",
@@ -73,7 +73,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/c/c9/049.png"
         },
         {
-            "id": 09,
+            "id": 109,
           "name": "Wigglytuff",
           "type1": "Normal",
           "type2": "Fairy",
@@ -82,7 +82,7 @@
           "imageUrl": "https://static.wikia.nocookie.net/pokemon/images/9/9c/040.png"
         },
         {
-            "id": 10,
+            "id": 110,
           "name": "Jynx",
           "type1": "Ice",
           "type2": "Psychic",
