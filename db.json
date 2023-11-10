@@ -1,7 +1,7 @@
 {
     "pokedex": [
         {
-            "id": 101,
+            "id": "venusaur",
           "name": "Venusaur",
           "type1": "Grass",
           "type2": "Poison",
