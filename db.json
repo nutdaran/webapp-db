@@ -2,111 +2,56 @@
     "tutor": 
         [
             {
-                id:"001",
-                name: "Ped",
-                bio: "JJJ",
-                contact: {
-                    ig: "www.facebook.com/",
-                    fb: "www.google.co.th/"
-                }
-            },
-            {
-                id:"002",
-                name: "Nong Phone",
-                bio: "JJJ",
-                contact: {
-                    ig: "www.facebook.com/",
-                    fb: "www.google.co.th/"
-                }
+            "name": 'Ped',
+            "id": '001',
+            "bio":'Major: ICCS\nsawasdee ka dek dek',
+            "contact": {
+                "ig":'https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==',
+                "fb":'https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=='
             }
+        },
+            {
+            "name": 'Nong Phone',
+            "id": '002',
+            "bio":'Major: ICIC\nNong phone',
+            "contact": {
+                "ig":'https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==',
+                "fb":'https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=='
+            }
+        },
         ],
     "courses": [
             {
-                courseID: "001",
-                courseName: "Web Application",
-                tutor: "Ped",
-                tutorID: '001',
-                time: "Tue 7pm-8pm",
-                rate: 200,
-                capacity: 10,
-                enrolled: 3,
-                studentList:['A','B','C']
+                "courseID": "001",
+                "courseName": "Web Application",
+                "tutor": "Ped",
+                "tutorID": '001',
+                "time": "Tue 7pm-8pm",
+                "rate": 200,
+                "capacity": 10,
+                "enrolled": 3,
+                "studentList":['A','B','C']
             },
             {
-                courseID: '002',
-                courseName: 'Scalable',
-                tutor: "Ped",
-                tutorID: '001',
-                time: "Tue 1pm-3pm",
-                rate: 400,
-                capacity: 10,
-                enrolled: 5,
-                studentList:['A','B','C','D','E']
+                "courseID": '002',
+                "courseName": 'Scalable',
+                "tutor": "Ped",
+                "tutorID": '001',
+                "time": "Tue 1pm-3pm",
+                "rate": 400,
+                "capacity": 10,
+                "enrolled": 5,
+                "studentList":['A','B','C','D','E']
                 },
                 {
-                courseID: '003',
-                courseName: 'PCSA',
-                tutor: "Ped",
-                tutorID: '001',
-                time: "Wed 2pm-4pm",
-                rate: 300,
-                capacity: 10,
-                enrolled: 3,
-                studentList:['A','B','C']
-                },
-                {
-                courseID: '004',
-                courseName: 'PCSA',
-                tutor: "Ped",
-                tutorID: '001',
-                time: "Wed 2pm-4pm",
-                rate: 300,
-                capacity: 10,
-                enrolled: 10,
-                studentList:['A','B','C']
-                },
-                {
-                courseID: '005',
-                courseName: 'PCSA',
-                tutor: "Ped",
-                tutorID: '001',
-                time: "Wed 2pm-4pm",
-                rate: 300,
-                capacity: 10,
-                enrolled: 3,
-                studentList:['A','B','C']
-                },
-                {
-                courseID: '003',
-                courseName: 'PCSA',
-                tutor: "Nong Phone",
-                tutorID: '002',
-                time: "Wed 2pm-4pm",
-                rate: 300,
-                capacity: 10,
-                enrolled: 3,
-                studentList:['A','B','C']
-                },
-                {
-                courseID: '006',
-                courseName: 'PCSA',
-                tutor: "Ped",
-                tutorID: '001',
-                time: "Wed 2pm-4pm",
-                rate: 300,
-                capacity: 10,
-                enrolled: 3,
-                studentList:['A','B','C']
-                },
-                {
-                courseID: '007',
-                courseName: 'PCSA',
-                tutor: "Ped",
-                tutorID: '001',
-                time: "Wed 2pm-4pm",
-                rate: 300,
-                capacity: 10,
-                enrolled: 9,
-                studentList:['A','B','C']
+                "courseID": '003',
+                "courseName": 'PCSA',
+                "tutor": "Nong Phone",
+                "tutorID": '002',
+                "time": "Wed 2pm-4pm",
+                "rate": 300,
+                "capacity": 10,
+                "enrolled": 3,
+                "studentList":['A','B','C']
                 },
             ]
