@@ -1,25 +1,24 @@
 {
-    "tutor": 
-        [
+    "tutor": [
             {
-            "name": "Ped",
-            "id": "001",
-            "bio":"Major: ICCS\nsawasdee ka dek dek",
-            "contact": {
-                "ig":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==",
-                "fb":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
-            }
-        },
+                "name": "Ped",
+                "id": "001",
+                "bio":"Major: ICCS\nsawasdee ka dek dek",
+                "contact": {
+                    "ig":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==",
+                    "fb":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
+                }
+            },
             {
-            "name": "Nong Phone",
-            "id": "002",
-            "bio": "Major: ICIC\nNong phone",
-            "contact": {
-                "ig":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==",
-                "fb":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
-            }
-        },
-        ],
+                "name": "Nong Phone",
+                "id": "002",
+                "bio": "Major: ICIC\nNong phone",
+                "contact": {
+                    "ig":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==",
+                    "fb":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
+                }
+            },
+    ],
     "courses": [
             {
                 "courseID": "001",
@@ -42,8 +41,8 @@
                 "capacity": 10,
                 "enrolled": 5,
                 "studentList":["A","B","C","D","E"]
-                },
-                {
+            },
+            {
                 "courseID": "003",
                 "courseName": "PCSA",
                 "tutor": "Nong Phone",
@@ -53,6 +52,6 @@
                 "capacity": 10,
                 "enrolled": 3,
                 "studentList":["A","B","C"]
-                },
-            ]
+            },
+    ]
 }
