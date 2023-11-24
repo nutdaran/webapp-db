@@ -2,21 +2,21 @@
     "tutor": 
         [
             {
-            "name": 'Ped',
-            "id": '001',
-            "bio":'Major: ICCS\nsawasdee ka dek dek',
+            "name": "Ped",
+            "id": "001",
+            "bio":"Major: ICCS\nsawasdee ka dek dek",
             "contact": {
-                "ig":'https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==',
-                "fb":'https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=='
+                "ig":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==",
+                "fb":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
             }
         },
             {
-            "name": 'Nong Phone',
-            "id": '002',
-            "bio":'Major: ICIC\nNong phone',
+            "name": "Nong Phone",
+            "id": "002",
+            "bio": "Major: ICIC\nNong phone",
             "contact": {
-                "ig":'https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==',
-                "fb":'https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=='
+                "ig":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==",
+                "fb":"https://www.instagram.com/ten_upon_t/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
             }
         },
         ],
@@ -25,33 +25,33 @@
                 "courseID": "001",
                 "courseName": "Web Application",
                 "tutor": "Ped",
-                "tutorID": '001',
+                "tutorID": "001",
                 "time": "Tue 7pm-8pm",
                 "rate": 200,
                 "capacity": 10,
                 "enrolled": 3,
-                "studentList":['A','B','C']
+                "studentList":["A","B","C"]
             },
             {
-                "courseID": '002',
-                "courseName": 'Scalable',
+                "courseID": "002",
+                "courseName": "Scalable",
                 "tutor": "Ped",
-                "tutorID": '001',
+                "tutorID": "001",
                 "time": "Tue 1pm-3pm",
                 "rate": 400,
                 "capacity": 10,
                 "enrolled": 5,
-                "studentList":['A','B','C','D','E']
+                "studentList":["A","B","C","D","E"]
                 },
                 {
-                "courseID": '003',
-                "courseName": 'PCSA',
+                "courseID": "003",
+                "courseName": "PCSA",
                 "tutor": "Nong Phone",
-                "tutorID": '002',
+                "tutorID": "002",
                 "time": "Wed 2pm-4pm",
                 "rate": 300,
                 "capacity": 10,
                 "enrolled": 3,
-                "studentList":['A','B','C']
+                "studentList":["A","B","C"]
                 },
             ]
