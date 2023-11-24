@@ -2,15 +2,23 @@
     "tutor": 
         [
             {
+                id:"001",
                 name: "Ped",
-                id: "001",
-                bio:"Major: ICCS\nsawasdee ka dek dek",
+                bio: "JJJ",
+                contact: {
+                    ig: "www.facebook.com/",
+                    fb: "www.google.co.th/"
+                }
             },
             {
+                id:"002",
                 name: "Nong Phone",
-                id: "002",
-                bio:"Major: ICIC\nNong phone",
-            },
+                bio: "JJJ",
+                contact: {
+                    ig: "www.facebook.com/",
+                    fb: "www.google.co.th/"
+                }
+            }
         ],
     "courses": [
             {
@@ -23,8 +31,8 @@
                 capacity: 10,
                 enrolled: 3,
                 studentList:['A','B','C']
-                },
-                {
+            },
+            {
                 courseID: '002',
                 courseName: 'Scalable',
                 tutor: "Ped",
